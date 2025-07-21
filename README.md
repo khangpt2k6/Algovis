@@ -49,7 +49,7 @@ Built to demonstrate **data structures**, **algorithms**, **multithreading**, an
 
 ---
 
-## ⚙Setup Instructions
+## Setup Instructions
 
 ### Option 1: Using JavaFX SDK
 
